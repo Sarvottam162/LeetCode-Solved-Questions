@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0999-available-captures-for-rook) |
+| [1672-richest-customer-wealth](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0999-available-captures-for-rook) |
+| [1672-richest-customer-wealth](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
