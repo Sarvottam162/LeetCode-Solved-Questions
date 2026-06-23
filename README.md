@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [0999-available-captures-for-rook](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0999-available-captures-for-rook) |
+## Matrix
+|  |
+| ------- |
+| [0999-available-captures-for-rook](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0999-available-captures-for-rook) |
+## Simulation
+|  |
+| ------- |
+| [0999-available-captures-for-rook](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0999-available-captures-for-rook) |
 <!---LeetCode Topics End-->
