@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0414-third-maximum-number) |
 | [0999-available-captures-for-rook](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0999-available-captures-for-rook) |
 | [1672-richest-customer-wealth](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1672-richest-customer-wealth) |
+| [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0999-available-captures-for-rook) |
 | [1672-richest-customer-wealth](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1672-richest-customer-wealth) |
+| [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0999-available-captures-for-rook) |
+| [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Math
 |  |
 | ------- |
@@ -65,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
