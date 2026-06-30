@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0414-third-maximum-number) |
 | [0832-flipping-an-image](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0980-unique-paths-iii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0999-available-captures-for-rook](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0999-available-captures-for-rook) |
 | [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
