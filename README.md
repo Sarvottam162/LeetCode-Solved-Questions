@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0796-rotate-string](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
