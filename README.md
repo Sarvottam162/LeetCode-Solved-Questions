@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Design
@@ -180,8 +182,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
