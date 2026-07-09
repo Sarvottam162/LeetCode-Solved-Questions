@@ -22,7 +22,14 @@ class Solution {
 
       if(p.val != q.val) return false;
 
-      return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
+    //   return isSameTree(p.left, q.left) && isSameTree(p.right, q.right); correct 
+
+    // another way 
+
+    boolean left = isSameTree(p.left, q.left);
+    boolean right = isSameTree(p.right, q.right);
+
+    return left && right;
       
       
     }
