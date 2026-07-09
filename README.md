@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0980-unique-paths-iii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## String Matching
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,4 +199,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
