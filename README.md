@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0832-flipping-an-image](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
+| [0904-fruit-into-baskets](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0980-unique-paths-iii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0999-available-captures-for-rook) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
