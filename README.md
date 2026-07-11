@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0980-unique-paths-iii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0999-available-captures-for-rook) |
+| [1095-find-in-mountain-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1095-find-in-mountain-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [1095-find-in-mountain-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1095-find-in-mountain-array) |
 ## String Matching
 |  |
 | ------- |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
