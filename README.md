@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0796-rotate-string](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0980-unique-paths-iii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0980-unique-paths-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 ## Interactive
 |  |
 | ------- |
