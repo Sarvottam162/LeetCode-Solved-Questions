@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Dynamic Programming
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Interactive
 |  |
 | ------- |
@@ -256,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
