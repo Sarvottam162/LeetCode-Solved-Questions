@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Interactive
 |  |
