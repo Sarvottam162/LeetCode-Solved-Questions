@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0980-unique-paths-iii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0064-minimum-path-sum) |
 ## Backtracking
 |  |
 | ------- |
