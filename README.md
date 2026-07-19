@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0965-univalued-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 ## Linked List
 |  |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0965-univalued-binary-tree) |
@@ -274,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0965-univalued-binary-tree) |
@@ -290,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Number Theory
