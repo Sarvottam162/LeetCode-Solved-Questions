@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0046-permutations) |
+| [0113-path-sum-ii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0980-unique-paths-iii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0980-unique-paths-iii) |
 ## Heap (Priority Queue)
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
