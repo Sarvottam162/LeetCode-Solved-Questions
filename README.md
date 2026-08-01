@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Segment Tree
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Hash Function
 |  |
