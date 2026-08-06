@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0980-unique-paths-iii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0999-available-captures-for-rook) |
 | [1095-find-in-mountain-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1095-find-in-mountain-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0976-largest-perimeter-triangle](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0414-third-maximum-number) |
+| [0976-largest-perimeter-triangle](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
+| [0976-largest-perimeter-triangle](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
 ## Tree
 |  |
 | ------- |
@@ -370,4 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
