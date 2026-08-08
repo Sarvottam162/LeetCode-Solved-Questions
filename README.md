@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1470-shuffle-the-array) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1672-richest-customer-wealth](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1095-find-in-mountain-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1095-find-in-mountain-array) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## String Matching
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Linked List
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Design
 |  |
 | ------- |
@@ -389,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
