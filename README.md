@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1603-design-parking-system](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1603-design-parking-system) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0999-available-captures-for-rook](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0999-available-captures-for-rook) |
+| [1603-design-parking-system](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1603-design-parking-system](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1603-design-parking-system) |
 ## Greedy
 |  |
 | ------- |
