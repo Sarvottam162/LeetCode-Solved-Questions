@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0832-flipping-an-image](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0705-design-hashset) |
 | [2326-spiral-matrix-iv](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2326-spiral-matrix-iv) |
 ## Stack
 |  |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0705-design-hashset) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1603-design-parking-system](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1603-design-parking-system) |
 ## Greedy
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0705-design-hashset) |
 ## Data Stream
 |  |
 | ------- |
