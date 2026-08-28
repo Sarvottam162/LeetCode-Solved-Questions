@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Dynamic Programming
 |  |
@@ -407,4 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
