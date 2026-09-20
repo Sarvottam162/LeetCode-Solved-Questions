@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
