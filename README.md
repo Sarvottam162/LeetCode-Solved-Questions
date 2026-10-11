@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2596-check-knight-tour-configuration](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
@@ -455,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
