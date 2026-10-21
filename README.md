@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
 | ------- |
