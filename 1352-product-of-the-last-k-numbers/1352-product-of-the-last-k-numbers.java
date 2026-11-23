@@ -13,15 +13,7 @@ class ProductOfNumbers {
     public int getProduct(int k) {
 
         int n = li.size();
-
         if (k > n) return 0;
-
-        // Check whether the last k numbers contain zero
-        for (int i = n - 1; i >= n - k; i--) {
-            if (li.get(i) == 0) {
-                return 0;
-            }
-        }
 
         int prod = 1;
 
@@ -33,3 +25,4 @@ class ProductOfNumbers {
         return prod;
     }
 }
+// note
