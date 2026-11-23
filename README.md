@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1095-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1200-minimum-absolute-difference) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0705-design-hashset) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1603-design-parking-system](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1603-design-parking-system) |
 ## Greedy
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Quicksort
 |  |
 | ------- |
