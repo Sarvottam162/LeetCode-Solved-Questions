@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Quickselect
 |  |
 | ------- |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sarvottam162/LeetCode-Solved-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Indexed Tree
 |  |
 | ------- |
